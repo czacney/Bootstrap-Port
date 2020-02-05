@@ -1,14 +1,14 @@
+.bg {
+    background-color: lightyellow;
+}
+
 .profileImg {
     width: 250px;
     height: 250x;
 
 }
 
-.jumbotronbg {
-    background-color: aliceblue;
 
-
-}
 
 footer {
     position: fixed;
@@ -17,5 +17,5 @@ footer {
     width: 100%;
     height: 40px;
     text-align:center;
-    background-color: gray;
+    background-color: white;
 }
